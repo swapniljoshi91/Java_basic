@@ -1,0 +1,39 @@
+Variable in JAVA
+
+Variable are container for storing data values 
+
+syntax
+
+type variablename  = value;
+
+string username = "swapnil";
+int age = 32;
+float  hight = 172.30f;
+doubl whight = 75.44;
+char firstlatter = "S"
+boolean yesno = true;
+
+
+
+ex1:-  In it we can first declare an variablename without assiging the value in it we assiging the valuse latter.
+ex2:- you assiginga new value to an existing variable it will overwrite the priveios value.
+
+
+For contatination we use + show in ex:-3 
+
+identifirers
+in java variables are must use this rure for variable name 
+
+
+name can contain letters, digits, underscors and dollar signs
+name must begin with letter.
+name should start with lovercase letter and cannot nontain whitespace
+name can also begin with $ and _
+name are case sensitive myVariable != myvariable
+java keyword not use as variable.
+int 3numbar = 5:  X
+int my vari = 29;  X
+int int =59; X
+
+
+
