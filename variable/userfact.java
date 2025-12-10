@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class userfact{
+	//it is fact user given
 
 	public static void main(String[] args){
 		int us_in;
@@ -17,9 +18,6 @@ public class userfact{
 	System.out.println("Factor of "+ us_in + "  is  " + fact);
 	
 	}
-
-
-
 
 
 }
